@@ -1,0 +1,2 @@
+# Sample
+I am trying to learn git.
